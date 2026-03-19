@@ -140,7 +140,7 @@ If you use this pipeline in your research, please cite:
 
 ## Authors
 
-- **Danilo Santos Rocha** — Graduate Program in Biomedical Engineering, UFU, Brazil
+- **Danilo Santos Rocha** — Postgraduate Program in Biomedical Engineering (PPGEB), UFU, Brazil
 - **Thiago Braga Rodrigues** — Technological University of the Shannon: Midlands Midwest (TUS), Ireland
 - **Eduardo Lazaro Martins Naves** — Graduate Program in Biomedical Engineering, UFU, Brazil
 
